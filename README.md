@@ -26,7 +26,7 @@ O **backend** gerencia toda a lógica de negócios, processamento de eventos de 
 A arquitetura do sistema é baseada em uma **infraestrutura distribuída**, onde cada componente (backend, frontend, IDS, chatbot, base de dados) é executado em máquinas ou containers independentes, garantindo escalabilidade e flexibilidade, possibilitando sua adaptação a diferentes cenários de uso.
 
 ---
-`
+
 ## **Principais Funcionalidades**
 
 1. **Monitoração de Rede:** 
@@ -43,9 +43,9 @@ A arquitetura do sistema é baseada em uma **infraestrutura distribuída**, onde
 
 5. **Infraestrutura Distribuída:**
    - Cada componente do sistema é executado em máquinas ou **containers independentes**, garantindo **escalabilidade**, **disponibilidade** e **segurança** do sistema.
-`
+
 ---
-`
+
 ## **Tecnologias Utilizadas**
 
 - **Frontend:** React / Vue.js / Angular, Chart.js / D3.js.
